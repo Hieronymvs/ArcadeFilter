@@ -3,7 +3,7 @@ filters and transforms a color palette of an image to 80s arcade style screen ov
 
 credits:
 
-sample1.jpg: Unsplash/ diego-jimenez-A-NVHPka9Rk-unsplash
+sample1.jpg: Unsplash/ Diego Jimenez
 
-sample2.jpg: Unsplash/ matteo-paganelli-rRJ0aA6AIpQ-unsplash
+sample2.jpg: Unsplash/ Matteo Paganelli
 

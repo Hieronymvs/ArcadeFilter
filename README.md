@@ -1,5 +1,7 @@
 # ArcadeFilter (work in progress)
-filters and transforms a color palette of an image to 80s arcade style screen overlay
+Processing (Java)
+
+Filters and transforms a color palette of an image to 80s arcade style screen overlay
 
 credits:
 
